@@ -120,7 +120,6 @@ img {
     transform: translate(-50%,-50%);
     box-shadow: 0 0 5px gray;
     overflow: auto;
-    scroll-behavior: smooth;
 } 
 #close-button {
     background-color: transparent;

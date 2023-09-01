@@ -26,10 +26,10 @@ let loop;
 
 const songsList = [
     {
-        name: "Gelo Ew Ki Bu",
-        link: "assets/gelo-ew-ki-bu.mp3",
-        artist: "Aram Tigran",
-        image: "assets/aram-tigran.jpeg"
+        name: "Altın yüzüğüm kırıldı",
+        link: "assets/altin-yuzugum-kirildi.mp3",
+        artist: "Grup Abdal",
+        image: "assets/grup-abdal.jpeg"
     },
     {
         name: "Gitme Kal",
